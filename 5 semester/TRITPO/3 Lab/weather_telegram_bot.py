@@ -4,8 +4,6 @@
 # Документация https://github.com/eternnoir/pyTelegramBotAPI
 #              https://github.com/csparpa/pyowm
 
-# key: 867972cb72bbfee22a3a859f176d1773
-# name: Lena
 import pyowm  # Импортируем пакет с помощью которого мы узнаем погоду
 import telebot  # Импортируем пакет бота через ввод в CMD "pip install pytelegrambotapi"
 import os  # Импортируем для использования переменных окружения
