@@ -6,5 +6,5 @@
 <a name="1"/>
 
 # 1. Начало рабты и запрос погоды
-![Диаграмма активностей 1](../../Images/System%20design/Action/ActionStart.png)
+![Диаграмма активностей 1](../../Images/Action/ActionStart.png)
 
