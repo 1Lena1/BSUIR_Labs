@@ -6,4 +6,4 @@
 <a name="1"/>
 
 # 1. Cинхронизировать время
-![Получить данные о погоде](../../../Images/System%20design/State/StateSync.png)
+![Получить данные о погоде](../../Images/StateSync.png)
