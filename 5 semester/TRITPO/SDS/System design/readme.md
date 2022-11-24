@@ -7,5 +7,5 @@
 3 [Диаграммы состояний](State/Readme.md)  
 4 [Диаграмма классов](Class/Readme.md)  
 5 [Диаграмма компонентов и развертывания](Component&Deployment/Readme.md)     
-6 [Диаграмма вариантов использования](UseCase/Readme.md)  
+6 [Диаграмма вариантов использования](UseCase/readme.md)  
 
