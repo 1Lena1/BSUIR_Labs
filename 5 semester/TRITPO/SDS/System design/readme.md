@@ -7,3 +7,5 @@
 3 [Диаграммы состояний](State/README.md)  
 4 [Диаграмма классов](Class/README.md)  
 5 [Диаграмма компонентов и развертывания](Component&Deployment/README.md)
+6 [Диаграмма вариантов использования](UseCase/README.md)  
+
